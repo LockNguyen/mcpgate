@@ -372,7 +372,4 @@ MIT - see [LICENSE](LICENSE).
 
 ## Maintainer
 
-Mariam Malik is a software engineer and full-stack developer with over one year of professional
-experience. Her work focuses on C++, Java, JavaScript, React, Next.js, and Node.js.
-
-For project-related questions, contact [Mariam Malik](mailto:mariammalik5100@gmail.com).
+Maintained by Loc Nguyen ([@LockNguyen](https://github.com/LockNguyen)).
